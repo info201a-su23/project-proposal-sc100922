@@ -24,6 +24,16 @@ No more than three sentences that summarize your project. Focus on the very most
 
 > Briefly introduce your project.  Include 3-5 research questions. What motivates the questions? Why are they important? (at least 200 words)
 
+Gun violence is a serious problem that affects residents in the United States. Our project aims to analyze the geographic patterns of gun violence and the reasons behind gun violence in the United States by using the dataset we found from Kaggle. The dataset includes date, location, number of people that were killed, and number of people that were injured of each gun violence incident that were documented from 2013 to 2022. 
+
+The research questions that we'll be focusing on are:
+- How has the number of gun violence incidents changed over time in different states and cities?
+- Are there any seasonal or temporal patterns in gun violence incidents?
+- Does gun violence differ in cities, suburbs, and rural areas?
+- Does demographic factors such as age, gender, and ethnicity intersect with gun violence trends?
+
+The motivation behind our research questions is driven by an urgent need to combat gun violence in the United States. We want to figure out if there’s any certain trends of gun violence by either location, group of people, seasons of the year, etc. By analyzing these questions, we can better understand gun violence and the potential reasons behind it. Since it affects the safety and well-being of all residents in the United States, studying the trends over time and across different areas can help us to learn more about the factors that contribute to gun violence and find ways to prevent it.
+
 2. Related Work  
 
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
