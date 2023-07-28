@@ -4,11 +4,10 @@ Please complete your proposal following the outline below.
 
 ## Unveiling the Magnitude of Gun Violence in the United States
 
-### Authors
-
-Names of your team members and contact information (email addresses).
-
-Lufei Chen   lufeic@uw.edu
+### Lufei Chen   lufeic@uw.edu
+### Hongye Lin
+### Shipei Huang
+### Yiran Bu
 
 ### 7/28/23
 
