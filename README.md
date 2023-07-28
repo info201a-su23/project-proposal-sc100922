@@ -2,9 +2,7 @@
 
 Please complete your proposal following the outline below.
 
-## Project title
-
-Unveiling the Magnitude of Gun Violence in the United States
+## Unveiling the Magnitude of Gun Violence in the United States
 
 ### Authors
 
