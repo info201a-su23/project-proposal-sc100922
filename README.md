@@ -42,11 +42,10 @@ We found the data set from Kaggle: https://www.kaggle.com/datasets/emmanuelfwerr
  
 > Who collected the data?
 >
-> The data was collected from the Gun Violence Archive (GVA).
-> 
+The data was collected from the Gun Violence Archive (GVA).
 > How was the data collected or generated?
 >  
-> GVA collects data from most law enforcement, government, and commercial sources on a daily basis to provide people with real-time data. Kaggle users then selected data from the GVA website for analysis.
+GVA collects data from most law enforcement, government, and commercial sources on a daily basis to provide people with real-time data. Kaggle users then selected data from the GVA website for analysis.
 > 
 > Why was the data collected?
 > 
