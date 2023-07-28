@@ -1,7 +1,5 @@
 # Final Project Proposal
 
-Please complete your proposal following the outline below.
-
 ## Unveiling the Magnitude of Gun Violence in the United States
 
 ### Lufei Chen   lufeic@uw.edu
