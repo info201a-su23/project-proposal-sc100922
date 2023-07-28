@@ -53,12 +53,10 @@ The data was collected to raise awareness of the magnitude of the problem of gun
 
 >How many observations (rows) are in your data?
 >
->The data set has two files: all_incidents.csv has 472820 observations, and mass_shootings.csv has 3609 observations.
->
-> How many features (columns) are in the data?
+The data set has two files: all_incidents.csv has 472820 observations, and mass_shootings.csv has 3609 observations.
+>How many features (columns) are in the data?
 >
 There are seven features in the data.
-
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
 > What are possible limitations or problems with this data?   (at least 200 words)
 
