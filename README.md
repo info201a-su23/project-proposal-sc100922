@@ -37,6 +37,7 @@ No more than three sentences that summarize your project. Focus on the very most
 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source
+> 
 We found the data set from Kaggle: https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa. This is the source of the data set:  https://www.gunviolencearchive.org 
  
 > Who collected the data?  
