@@ -37,19 +37,15 @@ No more than three sentences that summarize your project. Focus on the very most
 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source
-
-We found the data set from Kaggle: https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa.
-This is the source of the data set:  https://www.gunviolencearchive.org 
+We found the data set from Kaggle: https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa. This is the source of the data set:  https://www.gunviolencearchive.org 
  
 > Who collected the data?  
 > How was the data collected or generated?  
 > Why was the data collected?
-
 The data was collected to raise awareness of the magnitude of the problem of gun violence
 
 >How many observations (rows) are in your data?  
 > How many features (columns) are in the data?
-
 There are seven features in the data.
 
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?  
