@@ -51,7 +51,11 @@ The data set has two files: all_incidents.csv has 472820 observations, and mass_
 >How many features (columns) are in the data?
 >
 There are seven features in the data.
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?  
+> What, if any, ethical questions or questions of power do you need to consider when working with this data?
+>
+The dataset includes the geographical location of the incidents. Although the data doesn't include names, it's still necessary to protect the privacy of the individuals involved.
+The collected data may be biased, which can reduce the accuracy of data analysis.
+The topic of gun violence is sensitive, so sensitivity is extremely important when presenting results.
 > What are possible limitations or problems with this data?   (at least 200 words)
 
 4. Implications
