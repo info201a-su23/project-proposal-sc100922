@@ -10,8 +10,7 @@ Names of your team members and contact information (email addresses).
 
 Lufei Chen   lufeic@uw.edu
 
-### Date
-7/28/23
+### 7/28/23
 
 ## Abstract
 
