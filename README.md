@@ -5,13 +5,15 @@
 ### Lufei Chen   lufeic@uw.edu
 ### Hongye Lin
 ### Shipei Huang
-### Yiran Bu
+### Wendy Bu   wsb22@uw.edu
 
 ### 7/28/23
 
 ## Abstract
 
-No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+> No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
+
+Our main question is to analyze the geographic patterns and temporal trends of gun violence incidents in the United States. This question is important because it allows people to identify high-risk areas and to find potential ways to prevent gun violence. To address the question, we will conduct a comprehensive analysis of the dataset obtained from Kaggle, examining changes in the frequency of gun violence incidents over time and exploring potential patterns or correlations with demographic factors.
 
 ## Keywords
 1. Gun Violence
