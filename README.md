@@ -9,6 +9,7 @@ Give your project a concise, interesting title that summarizes the entirety of y
 ### Authors
 
 Names of your team members and contact information (email addresses).
+
 Lufei Chen   lufeic@uw.edu
 
 ### Date
@@ -36,6 +37,7 @@ No more than three sentences that summarize your project. Focus on the very most
 3. The Dataset
 
 > Where did you find the data? Please include a link to the data source
+
 https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa
  
 > Who collected the data?  
