@@ -9,9 +9,11 @@ Give your project a concise, interesting title that summarizes the entirety of y
 ### Authors
 
 Names of your team members and contact information (email addresses).
-### Date
+Lufei Chen   lufeic@uw.edu
 
-Winter 2023
+### Date
+7/28/23
+
 ## Abstract
 
 No more than three sentences that summarize your project. Focus on the very most important aspects. For example: (1) "Our main question is .... This question is important because .... To address the question, we will ...." (2) "We are concerned with ..., because .... To address this concern, we plan to ...." (3) "Consider that .... This is important because .... Accordingly, we plan to ...."
@@ -33,7 +35,9 @@ No more than three sentences that summarize your project. Focus on the very most
 
 3. The Dataset
 
-> Where did you find the data? Please include a link to the data source  
+> Where did you find the data? Please include a link to the data source
+https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa
+ 
 > Who collected the data?  
 > How was the data collected or generated?  
 > Why was the data collected?  
