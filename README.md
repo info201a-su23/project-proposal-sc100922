@@ -4,7 +4,7 @@ Please complete your proposal following the outline below.
 
 ## Project title
 
-Give your project a concise, interesting title that summarizes the entirety of your project. (Your title can change on subsequent deliverables.)
+Unveiling the Magnitude of Gun Violence in the United States
 
 ### Authors
 
@@ -40,13 +40,22 @@ No more than three sentences that summarize your project. Focus on the very most
 > 
 We found the data set from Kaggle: https://www.kaggle.com/datasets/emmanuelfwerr/gun-violence-incidents-in-the-usa. This is the source of the data set:  https://www.gunviolencearchive.org 
  
-> Who collected the data?  
-> How was the data collected or generated?  
+> Who collected the data?
+>
+> The data was collected from the Gun Violence Archive (GVA).
+> 
+> How was the data collected or generated?
+>  
+> GVA collects data from most law enforcement, government, and commercial sources on a daily basis to provide people with real-time data. Kaggle users then selected data from the GVA website for analysis.
+> 
 > Why was the data collected?
 > 
 The data was collected to raise awareness of the magnitude of the problem of gun violence
 
->How many observations (rows) are in your data?  
+>How many observations (rows) are in your data?
+>
+>The data set has two files: all_incidents.csv has 472820 observations, and mass_shootings.csv has 3609 observations.
+>
 > How many features (columns) are in the data?
 >
 There are seven features in the data.
