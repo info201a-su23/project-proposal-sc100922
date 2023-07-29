@@ -82,6 +82,8 @@ These issues might lead to incorrect analysis and recording of the data, causing
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
+One of the limitations is that our data doesn’t include the specific type of gun that shooters prefer to use. We believe that there will be certain types of gun that attackers prefer to use in these violent incidents. Through analyzing the guns, we can give suggestions to gun sellers or manufacturers about your sell strategies. For example, they can reduce the amount of sale at certain times or seasons when gunshots cases are expected to reach the peak based on our model. Another challenge we might have is related to policy. The gun laws are not consistent through all the States. Different states have different policy on gun control. And these policies are frequently being revised or changed, meaning that the gunshots may not have a constant pattern as we expected. The changing government policy can make our model hard to predict to trends because our model is based on the assumption that policy is fixed. Thus, we may have a larger statistic marginal error bar.
+
 Acknowledgements
 >
 Thank you to our team members for working together!
