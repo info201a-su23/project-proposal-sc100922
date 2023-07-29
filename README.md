@@ -83,4 +83,5 @@ These issues might lead to incorrect analysis and recording of the data, causing
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
 Acknowledgements
-> Thank you to our team members for working together!
+>
+Thank you to our team members for working together!
