@@ -3,7 +3,7 @@
 ## Unveiling the Magnitude of Gun Violence in the United States
 
 ### Lufei Chen   lufeic@uw.edu
-### Hongye Lin
+### Hongye Lin   hlin9@uw.edu
 ### Shipei Huang
 ### Wendy Bu   wsb22@uw.edu
 
