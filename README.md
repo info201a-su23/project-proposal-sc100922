@@ -77,6 +77,12 @@ These issues might lead to incorrect analysis and recording of the data, causing
 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
+For technologists, our project can build predictive models that can forecast potential gun violence hotspots and identify the patterns of these incidents. We can also do data visualization to communicate the patterns and trends in gun violence effectively. Different technologists can revise or improve their projects for their own purposes based on our data visualization. 
+
+For designers, they can effectively decide when/where to sell their products (to make maximum profits and keep the communities safe at the same time). 
+
+For policymakers, they can rely on our model to make informed decisions on gun violence prevention strategies. Also, knowing the areas with the highest rates of gun violence can let them allocate resources to those regions appropriately. This targeted approach can maximize the impact of interventions.
+
 5. Limitations & Challenges
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
