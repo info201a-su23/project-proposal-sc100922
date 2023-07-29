@@ -41,6 +41,10 @@ The motivation behind our research questions is driven by an urgent need to comb
 Our topic is investigating the gun violence happened in past several years around the United States. Firstly, We analyze from the locations and draw a map to show which area is affected by gun violence most and least. Secondly, we analyze from the time, we will compare the data through the timeline to find out the rising and falling rate of gun crimes in some areas. Thirdly, we analyze the number of injuried people and death to speculate the type of un-supervised gun around that area. Besides these, we will keep doing more researchs based on the dataset and get more meaningful results. Finally, The result of analysis can be used by the federal governments to enhance security work or used by local government to improve citizens' safety. Why we are doing this analysis? We want to make this land under our feet to become a safer and more trust-worthy environment for anyone who lives than any moment before.
 
 Related Work: 
+- "GUN VIOLENCE IN AMERICA AN ANALYSIS OF 2018 CDC DATA". The Educational Fund to Stop Gun Violence. https://efsgv.org/wp-content/uploads/Gun-Violence-in-America_An-Analysis-of-2018-CDC-Data_February-2020.pdf, February 2020.
+- "What the data says about gun deaths in the U.S." JOHN GRAMLICH. https://www.pewresearch.org/short-reads/2023/04/26/what-the-data-says-about-gun-deaths-in-the-u-s/, APRIL 26, 2023.
+- "GUN VIOLENCE PROBLEM ANALYSIS SUMMARY REPORT Washington, D.C." National Institute forCriminal Justice Reform. https://cjcc.dc.gov/sites/default/files/dc/sites/cjcc/release_content/attachments/DC%20Gun%20Violence%20Problem%20Analysis%20Summary%20Report.pd, December 2021.
+
 
 3. The Dataset
 
