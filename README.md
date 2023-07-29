@@ -69,6 +69,11 @@ The dataset includes the geographical location of the incidents. Although the da
 The collected data may be biased, which can reduce the accuracy of data analysis.
 The topic of gun violence is sensitive, so sensitivity is extremely important when presenting results.
 > What are possible limitations or problems with this data?   (at least 200 words)
+>
+The data may face the challenge of incompleteness, meaning not all gun violence incidents are included in the dataset. Incidents in populous areas might be more likely to be exposed and reported, while gun violence incidents in less populated areas may go unreported. Therefore, this could reduce the representativeness and reliability of the data. Additionally, due to societal complexities and existing biases, there may also be biases in the collected dataset of gun violence incidents, potentially distorting results. This can reduce the validity and accuracy of the data. This is because the data on gun violence comes from various places such as the government, media, law enforcement departments, etc. For instance, media organizations often decide which gun violence incident to report based on its news value, thus introducing bias; given the sensitivity of the topic of gun violence, governments, and law enforcement may hide the true situation, leading to data bias. Moreover, the dataset lacks specific background information. Society is complex, and if we record just the location of the gun violence incidents, the data and analysis obtained would be one-sided. Only by understanding the different economic and political conditions in each state can we analyze these factors in detail as to the causes of gun violence incidents. 
+
+These issues might lead to incorrect analysis and recording of the data, causing misconceptions about gun violence incidents, which is a challenge for the dataset.
+
 
 4. Implications
 
