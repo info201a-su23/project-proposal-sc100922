@@ -78,4 +78,4 @@ The topic of gun violence is sensitive, so sensitivity is extremely important wh
 >What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
 Acknowledgements
-> Is there anyone you would like to thank? A librarian who helped you with your research? A Teaching Assistant? A friend who helped you find your data? Say thank you in this section.
+> Thank you to our team members for working together!
