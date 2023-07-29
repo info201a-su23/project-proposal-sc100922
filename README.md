@@ -4,7 +4,7 @@
 
 ### Lufei Chen   lufeic@uw.edu
 ### Hongye Lin   hlin9@uw.edu
-### Shipei Huang
+### Shipei Huang shipeh@uw.edu
 ### Wendy Bu   wsb22@uw.edu
 
 ### 7/28/23
